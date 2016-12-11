@@ -3,9 +3,9 @@ This app gets up-to-date and accurate weather forecast information available for
 
 This app has been developed to practice my skills with React, Redux and network requests. This project shows you how to:
 
-* use axios to make aysncronous network calls
-* parse JSON data and generate model object from the data
-* use redux-promise middleware for handling promises.
+* use [axios](https://github.com/mzabriskie/axios) to make aysncronous network calls.
+* parse JSON data and generate model object from the data.
+* use [redux-promise](https://github.com/acdlite/redux-promise) middleware for handling promises.
 * use the [OpenWeatherMap](http://openweathermap.org) API to get weather forecast for 5 days.
 
 ###Getting Started###
@@ -18,4 +18,4 @@ Checkout this repo, install dependencies, then start webpack server with the fol
 	> npm install
 	> npm start
 ```
-This is an example created in the Stephen Grider's course: [Modern React with Redux](https://www.udemy.com/react-redux/)? that have been modified by me.
+This is an example created in the Stephen Grider's course: [Modern React with Redux](https://www.udemy.com/react-redux/) that have been modified by me.
