@@ -16,6 +16,6 @@ Checkout this repo, install dependencies, then start webpack server with the fol
 	> git clone https://github.com/debiasej/react-redux-weather-app.git
 	> cd react-redux-weather-app
 	> npm install
-	> npm start
+	> npm dev
 ```
 This is an example created in the Stephen Grider's course: [Modern React with Redux](https://www.udemy.com/react-redux/) that have been modified by me.
